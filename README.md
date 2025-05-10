@@ -2,6 +2,8 @@
 
 StoryWeaver AI is your creative co-pilot, helping you transform fledgling ideas into fully-formed stories. Generate unique characters, sculpt immersive worlds, and weave compelling plots with our intelligent storycrafting assistant. Built with Next.js, Tailwind CSS, shadcn/ui, and powered by Gaia's LLM API.
 
+![image](https://github.com/user-attachments/assets/7a32a9ad-9e5a-496e-a2e0-e8676995feac)
+
 ## Features
 
 *   **Idea to Story:** Input your core story idea, genre, desired length, and optional details like protagonist, conflict, world vibe, and tone.
